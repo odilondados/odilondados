@@ -1,6 +1,7 @@
-Olá pessoal , eu sou Odilon liberato novo por aqui kkk.
-Estou interessado em aprender e partilhar conhecimento
-Neste momento estou cursando DataCience foco em Power Bi , Tableau
-Busco oportunidade como assitente em áreas correlatas a TI .
-MUITA VONTADE DE APRENDER E ENSINAR GALERA 
-Abraços a todos !
+Olá pessoal , eu sou Odilon liberato , uma pessoa PCD trabalhando atualmente na EMBRAER .  Domino o português, conheço o alemão a nível básico e conheço e aplico o inglês a nível técnico !
+Experiente programador/operador em linguagem máquina baixo nível e conhecimento júnior em linguagens Alto nível, Java , Javascript , Pyton , SQL com etl , Power bi .
+Conhecimentos práticos com Gestão de projetos Logísticos . 
+Estou interessado em aprender e compartilhar conhecimento 
+
+Considero oportunidades internacionais em áreas correlatas a TI .
+Um abraços a todos !
