@@ -1,4 +1,4 @@
-Olá pessoal , eu sou Odilon liberato ,um " ANALISTA DE DADOS com deficiência física e sem dificuldades para locomoção. 
+Olá pessoal , eu sou Odilon liberato ,Hello everyone, I'm Odilon liberatoum " ANALISTA DE DADOS com deficiência física e sem dificuldades para locomoção. 
 Domino o idioma português , aplico o inglês a nível técnico e intermediário !
 Ampla vivência com linguagens máquina baixo nível e me aprimorando em linguagens de Alto nível: SQL , Java , Javascript , Phyton .
 Vivência diária com manuseio de ferramentas da Power platform automatizando tarefas em Power bi , excel e geração de Dashboards .
