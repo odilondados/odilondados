@@ -1,7 +1,12 @@
-Olá pessoal , eu sou Odilon liberato , uma pessoa PCD trabalhando atualmente na EMBRAER .  Domino o português, conheço o alemão a nível básico e conheço e aplico o inglês a nível técnico !
-Experiente programador/operador em linguagem máquina baixo nível e conhecimento júnior em linguagens Alto nível, Java , Javascript , Pyton , SQL com etl , Power bi .
-Conhecimentos práticos com Gestão de projetos Logísticos . 
-Estou interessado em aprender e compartilhar conhecimento 
+Olá pessoal , eu sou Odilon liberato ,um " ANALISTA DE DADOS com deficiência física e sem dificuldades para locomoção. 
+Domino o idioma português , aplico o inglês a nível técnico e intermediário !
+Ampla vivência com linguagens máquina baixo nível e me aprimorando em linguagens de Alto nível: SQL , Java , Javascript , Phyton .
+Vivência diária com manuseio de ferramentas da Power platform automatizando tarefas em Power bi , excel e geração de Dashboards .
+ETL de dados , visita a clientes externos , Benchmarking e controle estatístico de processos .
 
-Considero oportunidades internacionais em áreas correlatas a TI .
+Conhecimentos práticos em Gestão de projetos Logísticos , aplicações de melhoria contínua , ferramentas da qualida e fluxo puxado , 
+implantação e gerenciamento de 5S Digital , participação ativa em PMO e suas etapas , projetos nacionais e internacionais .
+com conhecimento em Scrum e também como agilista prático .
+
+Considero oportunidades em áreas correlatas a TI .
 Um abraços a todos !
