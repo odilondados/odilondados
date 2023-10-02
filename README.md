@@ -1,12 +1,13 @@
-Olá pessoal , eu sou Odilon liberato ,Hello everyone, I'm Odilon liberatoum " ANALISTA DE DADOS com deficiência física e sem dificuldades para locomoção. 
-Domino o idioma português , aplico o inglês a nível técnico e intermediário !
+Olá pessoal , eu sou Odilon liberato ,Hello everyone, I'm Odilon liberato um " ANALISTA DE DADOS com deficiência física e sem dificuldades para locomoção. 
+Premiado em grandes empresas com ideias que agregaram valor e economia a processos diversos .
+Dominio de idioma português , aplico o inglês a nível técnico e intermediário !
 Ampla vivência com linguagens máquina baixo nível e me aprimorando em linguagens de Alto nível: SQL , Java , Javascript , Phyton .
-Vivência diária com manuseio de ferramentas da Power platform automatizando tarefas em Power bi , excel e geração de Dashboards .
-ETL de dados , visita a clientes externos , Benchmarking e controle estatístico de processos .
+Execuções diárias com manuseio em ferramentas da Power platform automatizando tarefas em excel e Power Bi com ETL e geração de Dashboards .
+Realizei visitas a clientes externos , Benchmarking e controle estatístico de processos .
 Conhecimentos práticos em Gestão de projetos Logísticos , aplicações de melhoria contínua , ferramentas da qualida e fluxo puxado , 
-implantação e gerenciamento de 5S Digital , participação ativa em PMO e suas etapas , projetos nacionais e internacionais .
-com conhecimento em Scrum e também como agilista prático .
-Considero oportunidades em áreas correlatas a TI .
+implantação e gerenciamento de 5S Digital , participação ativa em Gestão e execução de projetos nacionais e internacionais .
+Habilidades práticas com aplicação de Scrum e também como agilista Lean .
+Busco oportunidades para desenvolvimento profissional em áreas correlatas a TI .
 Um abraços a todos !
 
 Hello everyone, I'm Odilon liberato, a "DATA ANALYST with physical disability and no mobility difficulties.
